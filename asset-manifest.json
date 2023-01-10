@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/deploy-gh-pages/static/js/main.a5194835.js",
+    "index.html": "/deploy-gh-pages/index.html",
+    "main.a5194835.js.map": "/deploy-gh-pages/static/js/main.a5194835.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a5194835.js"
+  ]
+}
